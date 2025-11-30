@@ -16,6 +16,7 @@ The single-page design includes ***CTRs (Click-Through-Rates)*** that could serv
 - **Bootstrap 5 & 4**
 - **JavaScript (ES6)**
 - **jQuery**
+- **PHP**
 - **Responsive Design Techniques** — Flexbox & Media Queries  
 - **Google Fonts** and **Font Awesome Icons**
 
