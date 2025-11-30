@@ -21,6 +21,11 @@ The single-page design includes ***CTRs (Click-Through-Rates)*** that could serv
 
 
 ---
+## Branch Improvement Summary
+ In this design branch, I refactored the project structure by converting the main HTML layout into a modular PHP architecture. Each major section of the page has been broken into reusable components to improve maintainability, speed up debugging, and make feature expansion easier.
+
+I also introduced a centralized App Configuration file where key application information is defined as constants. These constants are now used across the frontend, ensuring cleaner code, better consistency, and easier updates.
+---
 
 ##  Lessons Learned
 
