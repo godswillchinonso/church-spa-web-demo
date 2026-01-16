@@ -42,7 +42,7 @@ This project improved my ability to:
 ## Author
 
 **Sonex Godswill Chinonso**  
-Fullstack Developer | PHP | API | Frontend Development  
+Fullstack Developer Smyfony | PHP | API | Frontend Development  
  [Portfolio Website](https://godswillchinonsosonex.online)  
  [GitHub Profile](https://github.com/godswillchinonso)  
  [Email Address](godswillchinonso5@gmail.com) 
